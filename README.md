@@ -1,1 +1,1 @@
-# osacad-lms-frontend
+# kona-lms-frontend
